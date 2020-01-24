@@ -10,7 +10,7 @@
 | Raspberry Pi | Raspberry Pi Model 3B+ |
 | OS | Ubuntu18.04 |
 | ROS | ROS Melodic |
-| LEDの数　| 9 |
+| LEDの数 | 9 |
 
 ### 実行方法
 
