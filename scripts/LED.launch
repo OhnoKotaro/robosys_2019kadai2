@@ -1,0 +1,4 @@
+<launch>
+	<node pkg="robosys_2019kadai2" name="count_up" type="count.py" required="true" output="screen" />
+	<node pkg="robosys_2019kadai2" name="mod" type="twice1.py" required="true" output="screen" />
+</launch>
