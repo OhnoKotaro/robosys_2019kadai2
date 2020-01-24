@@ -5,7 +5,7 @@
 講義で使用したcount_upノードの一桁の数によって光るLEDの数が変わるプログラムです．0個から最大9個まで光ります．
 
 ### 動作環境
-
+|||
 |:--:|:--:|
 | Raspberry Pi | Raspberry Pi Model 3B+ |
 | OS | Ubuntu18.04 |
