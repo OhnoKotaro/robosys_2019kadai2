@@ -20,7 +20,7 @@ $ git clone https://github.com/OhnoKotaro/robosys_2019kadai2.git
 $ cd ..
 $ catkin_make
 $ roscore
-$ cd src/robosys_2019kadai2/ROSled
+$ cd src/robosys_2019kadai2/scripts/ROSled
 $ bash LEDsetup.sh
 $ roslaunch robosys_2019kadai2 LED.launch
 ```
